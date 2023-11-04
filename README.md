@@ -3,10 +3,10 @@
 <p align="center">Um aplicativo de lista de presença simples.</p>
 
 🛠️ Tecnologias Utilizadas
-React
-TypeScript
-HTML
-CSS
+- React
+- TypeScript
+- HTML
+- CSS
 
 ## 🛠️ Instalação
 
